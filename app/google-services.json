@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3463569909",
+    "project_id": "softcaresystem-420bf",
+    "storage_bucket": "softcaresystem-420bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3463569909:android:3a817cab1091cd9d1900bc",
+        "android_client_info": {
+          "package_name": "com.mamaril.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3463569909-6ctddf16eerp7b3ovch0dc5l4hfcfjqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPm4e3sG6FgplYTE_aMWvjCoQSYULrarU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3463569909-6ctddf16eerp7b3ovch0dc5l4hfcfjqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
